@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ShoesShop</string>
+    <string name="intro_text">Navegue pelos estilos mais recentes das principais marcas\nObtenha recomendações personalizadas\nAproveite frete rápido e gratuito</string>
+    <string name="intro_title">Entre no seu estilo <font color="#6033ba">\n Um mundo de sapatos</font></string>
+    <string name="intro_signin">Já tem uma conta? <font color="#6033ba"> Entrar </font></string>
+    <string name="tv_lets_get_started">Vamos começar</string>
 </resources>
