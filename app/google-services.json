@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102197390336",
+    "project_id": "shoesshop1-4aadc",
+    "storage_bucket": "shoesshop1-4aadc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102197390336:android:73e1e5f9714d67adf2bce5",
+        "android_client_info": {
+          "package_name": "com.rodrigosa.shoesshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtE08CUSL2qf-Xf3bDGzdZXnObawkXuV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
