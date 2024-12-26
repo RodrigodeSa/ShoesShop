@@ -1,11 +1,9 @@
-package com.rodrigosa.shoesshop
+package com.rodrigosa.shoesshop.activity
 
 import android.content.Intent
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
+import com.rodrigosa.shoesshop.MainActivity
 import com.rodrigosa.shoesshop.databinding.ActivityIntroBinding
 
 class IntroActivity : AppCompatActivity() {
