@@ -3,5 +3,10 @@
     <string name="intro_text">Navegue pelos estilos mais recentes das principais marcas\nObtenha recomendações personalizadas\nAproveite frete rápido e gratuito</string>
     <string name="intro_title">Entre no seu estilo <font color="#6033ba">\n Um mundo de sapatos</font></string>
     <string name="intro_signin">Já tem uma conta? <font color="#6033ba"> Entrar </font></string>
-    <string name="tv_lets_get_started">Vamos começar</string>
+    <string name="lets_get_started">Vamos começar</string>
+    <string name="welcome_back">Bem vindo de volta</string>
+    <string name="user_name">Rodrigo</string>
+    <string name="official_brand">Marca Oficial</string>
+    <string name="see_all">Ver Tudo</string>
+    <string name="recommendation">Recomendação</string>
 </resources>

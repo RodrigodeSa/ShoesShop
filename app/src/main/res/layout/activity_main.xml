@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="24dp"
             android:layout_marginTop="32dp"
-            android:text="Bem vindo de volta"
+            android:text="@string/welcome_back"
             android:textColor="@color/grey"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -26,7 +26,7 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Rodrigo"
+            android:text="@string/user_name"
             android:textSize="18sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="@+id/textView"
@@ -100,7 +100,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="24dp"
             android:layout_marginTop="16dp"
-            android:text="Marca Oficial"
+            android:text="@string/official_brand"
             android:textStyle="bold"
             android:textSize="18sp"
             android:textColor="@color/black"
@@ -113,7 +113,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="24dp"
-            android:text="Ver Tudo"
+            android:text="@string/see_all"
             android:textColor="@color/purple"
             android:textAlignment="textEnd"
             app:layout_constraintEnd_toEndOf="parent"
@@ -156,7 +156,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="24dp"
             android:layout_marginTop="16dp"
-            android:text="Recomendação"
+            android:text="@string/recommendation"
             android:textStyle="bold"
             android:textSize="18sp"
             android:textColor="@color/black"
@@ -169,7 +169,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="24dp"
-            android:text="Ver Tudo"
+            android:text="@string/see_all"
             android:textColor="@color/purple"
             android:textAlignment="textEnd"
             app:layout_constraintEnd_toEndOf="parent"
@@ -203,8 +203,6 @@
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintBottom_toBottomOf="parent"
                 />
-
-
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
