@@ -9,4 +9,7 @@
     <string name="official_brand">Marca Oficial</string>
     <string name="see_all">Ver Tudo</string>
     <string name="recommendation">Recomendação</string>
+    <string name="title">Title</string>
+    <string name="dollar_sign">$-</string>
+    <string name="five_text">5</string>
 </resources>
