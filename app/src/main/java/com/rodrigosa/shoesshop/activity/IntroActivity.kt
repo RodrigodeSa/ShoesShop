@@ -3,7 +3,6 @@ package com.rodrigosa.shoesshop.activity
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.rodrigosa.shoesshop.MainActivity
 import com.rodrigosa.shoesshop.databinding.ActivityIntroBinding
 
 class IntroActivity : AppCompatActivity() {
